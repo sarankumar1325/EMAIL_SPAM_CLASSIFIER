@@ -12,13 +12,12 @@ I invite you to explore the repository, test the classifiers, and read the docum
 
 Thank you for this opportunity to contribute to our project. I look forward to hearing your thoughts and suggestions on the Email Spam Classifier Repository.
 
+
+
 Yours sincerely,
-
-SARAN KUMAR S
-
+SARAN KUMAR S.
 Intern,
-
-The Fusion Apps
+The Fusion Apps.
 
 
 
