@@ -1,4 +1,4 @@
-
+## EMAIL SPAM CLASSIFIER 
 
 I am pleased to present the culmination of my efforts: the Email Spam Classifier Repository, which is specifically tailored to the goals of our internal project. This repository aims to streamline and optimise email classification for spam detection by providing a set of classifiers with comprehensive documentation.
 
