@@ -1,5 +1,4 @@
-# EMAIL_SPAM_CLASSIFIER
-LSTM-based Classifier: Utilizes Long Short-Term Memory networks for sequential pattern recognition in email content. SVM Classifier: Implements Support Vector Machines for efficient email spam detection based on distinct feature mapping. Repository includes LSTM and SVM models with documentation for robust email spam classification.
+
 
 I am pleased to present the culmination of my efforts: the Email Spam Classifier Repository, which is specifically tailored to the goals of our internal project. This repository aims to streamline and optimise email classification for spam detection by providing a set of classifiers with comprehensive documentation.
 
