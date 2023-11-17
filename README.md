@@ -15,9 +15,9 @@ Thank you for this opportunity to contribute to our project. I look forward to h
 
 
 Yours sincerely,
-SARAN KUMAR S.
-Intern,
-The Fusion Apps.
+SARAN KUMAR S.\n
+Intern,\n
+The Fusion Apps.\n
 
 
 
